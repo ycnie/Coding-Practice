@@ -22,4 +22,4 @@ class Solution {
 }
 
 // Time: O(n * (l1 + l2)) l1 and l2 are length of word1 and word2
-// Space: O(n)
+// Space: O(1)
